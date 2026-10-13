@@ -64,73 +64,73 @@ A side-by-side comparison of leading commercial ITSM and Enterprise Service Desk
 
 ## 🔓 Open-Source GitHub Projects
 
-Explore the most capable open-source ITSM platforms, self-hosted service desks, CMDB tools, and incident response engines. Sorted by **GitHub Star Count (descending)**.
+Explore the most capable open-source ITSM platforms, self-hosted service desks, CMDB tools, and incident response engines. Sorted by **GitHub Stars_Count (descending)**.
 
-* 🌟 **[Chatwoot](https://github.com/chatwoot/chatwoot)** [![GitHub stars](https://img.shields.io/github/stars/chatwoot/chatwoot?style=social&color=white)](https://github.com/chatwoot/chatwoot/stargazers)  
+* 🌟 **[Chatwoot](https://github.com/chatwoot/chatwoot)** [![GitHub_Stars](https://img.shields.io/github/stars/chatwoot/chatwoot?style=social&color=white)](https://github.com/chatwoot/chatwoot/stargazers)  
   *License: MIT* • *Stack: Ruby on Rails, Vue.js, PostgreSQL, Redis*  
   Open-source customer engagement and helpdesk suite with an omnichannel shared inbox covering live chat, email, WhatsApp, SMS, and social media. Ideal for IT teams needing rapid conversational user support alongside traditional ticketing.
 
-* 🌟 **[NetBox](https://github.com/netbox-community/netbox)** [![GitHub stars](https://img.shields.io/github/stars/netbox-community/netbox?style=social&color=white)](https://github.com/netbox-community/netbox/stargazers)  
+* 🌟 **[NetBox](https://github.com/netbox-community/netbox)** [![GitHub_Stars](https://img.shields.io/github/stars/netbox-community/netbox?style=social&color=white)](https://github.com/netbox-community/netbox/stargazers)  
   *License: Apache-2.0* • *Stack: Python, Django, PostgreSQL, Redis*  
   The leading open-source source of truth for network infrastructure, IP address management (IPAM), and data center infrastructure management (DCIM). Serves as an authoritative infrastructure CMDB foundation for enterprise ITSM pipelines.
 
-* 🌟 **[UVdesk](https://github.com/uvdesk/community-skeleton)** [![GitHub stars](https://img.shields.io/github/stars/uvdesk/community-skeleton?style=social&color=white)](https://github.com/uvdesk/community-skeleton/stargazers)  
+* 🌟 **[UVdesk](https://github.com/uvdesk/community-skeleton)** [![GitHub_Stars](https://img.shields.io/github/stars/uvdesk/community-skeleton?style=social&color=white)](https://github.com/uvdesk/community-skeleton/stargazers)  
   *License: MIT* • *Stack: PHP, Symfony, MySQL*  
   Modular, enterprise-grade open-source helpdesk system. Features automated email-to-ticket conversion, role-based workflows, ticket forwarding, configurable workflows, and custom customer portal designs.
 
-* 🌟 **[Snipe-IT](https://github.com/snipe/snipe-it)** [![GitHub stars](https://img.shields.io/github/stars/snipe/snipe-it?style=social&color=white)](https://github.com/snipe/snipe-it/stargazers)  
+* 🌟 **[Snipe-IT](https://github.com/snipe/snipe-it)** [![GitHub_Stars](https://img.shields.io/github/stars/snipe/snipe-it?style=social&color=white)](https://github.com/snipe/snipe-it/stargazers)  
   *License: AGPL-3.0* • *Stack: PHP, Laravel, MySQL*  
   The industry-standard open-source IT Asset Management (ITAM) software. Tracks hardware assets, software licensing, accessories, consumables, and warranties with QR/barcode scanning and full REST API integration for ITSM CMDBs.
 
-* 🌟 **[Dispatch](https://github.com/Netflix/dispatch)** [![GitHub stars](https://img.shields.io/github/stars/Netflix/dispatch?style=social&color=white)](https://github.com/Netflix/dispatch/stargazers)  
+* 🌟 **[Dispatch](https://github.com/Netflix/dispatch)** [![GitHub_Stars](https://img.shields.io/github/stars/Netflix/dispatch?style=social&color=white)](https://github.com/Netflix/dispatch/stargazers)  
   *License: Apache-2.0* • *Stack: Python, FastAPI, Vue.js, PostgreSQL*  
   Netflix's open-source crisis and incident management orchestration engine. Automates incident response lifecycles by coordinating Slack channels, Google Docs/Jira tickets, Zoom bridges, and post-incident review workflows.
 
-* 🌟 **[GLPI](https://github.com/glpi-project/glpi)** [![GitHub stars](https://img.shields.io/github/stars/glpi-project/glpi?style=social&color=white)](https://github.com/glpi-project/glpi/stargazers)  
+* 🌟 **[GLPI](https://github.com/glpi-project/glpi)** [![GitHub_Stars](https://img.shields.io/github/stars/glpi-project/glpi?style=social&color=white)](https://github.com/glpi-project/glpi/stargazers)  
   *License: GPL-3.0* • *Stack: PHP, MariaDB/MySQL*  
   The premier open-source enterprise ITSM and CMDB management suite. Bridges ITIL service desk ticketing (incident, problem, change management) with complete asset tracking, network inventory, contract management, and financial budgeting.
 
-* 🌟 **[Zammad](https://github.com/zammad/zammad)** [![GitHub stars](https://img.shields.io/github/stars/zammad/zammad?style=social&color=white)](https://github.com/zammad/zammad/stargazers)  
+* 🌟 **[Zammad](https://github.com/zammad/zammad)** [![GitHub_Stars](https://img.shields.io/github/stars/zammad/zammad?style=social&color=white)](https://github.com/zammad/zammad/stargazers)  
   *License: AGPL-3.0* • *Stack: Ruby on Rails, GraphQL, Elasticsearch, PostgreSQL/MySQL*  
   Modern open-source web-based helpdesk and ticketing platform. Features real-time simultaneous collaboration, SLA tracking, multi-channel intake (email, telephone, Telegram, social channels), and Elasticsearch-powered lightning search.
 
-* 🌟 **[FreeScout](https://github.com/freescout-helpdesk/freescout)** [![GitHub stars](https://img.shields.io/github/stars/freescout-helpdesk/freescout?style=social&color=white)](https://github.com/freescout-helpdesk/freescout/stargazers)  
+* 🌟 **[FreeScout](https://github.com/freescout-helpdesk/freescout)** [![GitHub_Stars](https://img.shields.io/github/stars/freescout-helpdesk/freescout?style=social&color=white)](https://github.com/freescout-helpdesk/freescout/stargazers)  
   *License: AGPL-3.0* • *Stack: PHP, Laravel, MySQL*  
   Lightweight, self-hosted Help Scout alternative designed to run smoothly on budget hardware (1–2 GB RAM). Includes collision detection, conversation threading, canned replies, push notifications, and a rich module marketplace.
 
-* 🌟 **[osTicket](https://github.com/osTicket/osTicket)** [![GitHub stars](https://img.shields.io/github/stars/osTicket/osTicket?style=social&color=white)](https://github.com/osTicket/osTicket/stargazers)  
+* 🌟 **[osTicket](https://github.com/osTicket/osTicket)** [![GitHub_Stars](https://img.shields.io/github/stars/osTicket/osTicket?style=social&color=white)](https://github.com/osTicket/osTicket/stargazers)  
   *License: GPL-2.0* • *Stack: PHP, MySQL*  
   One of the most battle-tested open-source support ticket systems in existence. Offers email piping, custom form fields, ticket filters, automated department routing, SLA plans, client portal, and ticket lock collision prevention.
 
-* 🌟 **[LibreDesk](https://github.com/abhinavxd/libredesk)** [![GitHub stars](https://img.shields.io/github/stars/abhinavxd/libredesk?style=social&color=white)](https://github.com/abhinavxd/libredesk/stargazers)  
+* 🌟 **[LibreDesk](https://github.com/abhinavxd/libredesk)** [![GitHub_Stars](https://img.shields.io/github/stars/abhinavxd/libredesk?style=social&color=white)](https://github.com/abhinavxd/libredesk/stargazers)  
   *License: AGPL-3.0* • *Stack: Go, SQLite/PostgreSQL*  
   Modern, ultra-lightweight self-hosted customer support and helpdesk shipped as a single compiled Go binary. Consumes under 512 MB RAM while offering automated routing, SLA controls, CSAT surveys, and AI-assisted responses.
 
-* 🌟 **[Helpy](https://github.com/helpyio/helpy)** [![GitHub stars](https://img.shields.io/github/stars/helpyio/helpy?style=social&color=white)](https://github.com/helpyio/helpy/stargazers)  
+* 🌟 **[Helpy](https://github.com/helpyio/helpy)** [![GitHub_Stars](https://img.shields.io/github/stars/helpyio/helpy?style=social&color=white)](https://github.com/helpyio/helpy/stargazers)  
   *License: MIT* • *Stack: Ruby on Rails, PostgreSQL*  
   Clean, mobile-first open-source customer support platform with multi-channel ticketing, internal knowledge base for IT runbooks, community discussion forums, and multilingual capabilities.
 
-* 🌟 **[Trudesk](https://github.com/polonel/trudesk)** [![GitHub stars](https://img.shields.io/github/stars/polonel/trudesk?style=social&color=white)](https://github.com/polonel/trudesk/stargazers)  
+* 🌟 **[Trudesk](https://github.com/polonel/trudesk)** [![GitHub_Stars](https://img.shields.io/github/stars/polonel/trudesk?style=social&color=white)](https://github.com/polonel/trudesk/stargazers)  
   *License: Apache-2.0* • *Stack: Node.js, MongoDB, WebSockets*  
   Real-time open-source help desk and ticketing engine. Built with Node.js and MongoDB, it provides instant live ticket notifications, agent chat, time tracking, custom ticket priorities, and reporting dashboards.
 
-* 🌟 **[iTop](https://github.com/Combodo/iTop)** [![GitHub stars](https://img.shields.io/github/stars/Combodo/iTop?style=social&color=white)](https://github.com/Combodo/iTop/stargazers)  
+* 🌟 **[iTop](https://github.com/Combodo/iTop)** [![GitHub_Stars](https://img.shields.io/github/stars/Combodo/iTop?style=social&color=white)](https://github.com/Combodo/iTop/stargazers)  
   *License: AGPL-3.0* • *Stack: PHP, MySQL*  
   Full-featured open-source ITIL service management platform built around an extensively customizable CMDB. Provides graphical impact analysis, change advisory board (CAB) workflows, incident management, and automatic data synchronization.
 
-* 🌟 **[Request Tracker (RT)](https://github.com/bestpractical/rt)** [![GitHub stars](https://img.shields.io/github/stars/bestpractical/rt?style=social&color=white)](https://github.com/bestpractical/rt/stargazers)  
+* 🌟 **[Request Tracker (RT)](https://github.com/bestpractical/rt)** [![GitHub_Stars](https://img.shields.io/github/stars/bestpractical/rt?style=social&color=white)](https://github.com/bestpractical/rt/stargazers)  
   *License: GPL-2.0* • *Stack: Perl, PostgreSQL/MySQL*  
   Industrial-strength, battle-tested issue tracking and incident response system trusted by universities, government agencies, and Fortune 500 NOCs worldwide for over two decades. Features limitless workflow customizability and PGP/S-MIME encryption.
 
-* 🌟 **[Znuny](https://github.com/znuny/Znuny)** [![GitHub stars](https://img.shields.io/github/stars/znuny/Znuny?style=social&color=white)](https://github.com/znuny/Znuny/stargazers)  
+* 🌟 **[Znuny](https://github.com/znuny/Znuny)** [![GitHub_Stars](https://img.shields.io/github/stars/znuny/Znuny?style=social&color=white)](https://github.com/znuny/Znuny/stargazers)  
   *License: GPL-3.0* • *Stack: Perl, JavaScript, MariaDB/PostgreSQL*  
   Active community-driven fork of the classic OTRS Community Edition. Delivers enterprise-grade ITIL workflows: incident, problem, and change management, CMDB integration, and SLA escalation tracking designed for large IT departments.
 
-* 🌟 **[REI3](https://github.com/r3-team/r3)** [![GitHub stars](https://img.shields.io/github/stars/r3-team/r3?style=social&color=white)](https://github.com/r3-team/r3/stargazers)  
+* 🌟 **[REI3](https://github.com/r3-team/r3)** [![GitHub_Stars](https://img.shields.io/github/stars/r3-team/r3?style=social&color=white)](https://github.com/r3-team/r3/stargazers)  
   *License: MIT* • *Stack: Go, Vue.js, PostgreSQL*  
   Self-hosted open-source low-code application builder with ready-to-use business management and service request modules. Features flexible workflow automation, clear ticket statuses, and permission controls.
 
-* 🌟 **[OTOBO](https://github.com/RotherOSS/otobo)** [![GitHub stars](https://img.shields.io/github/stars/RotherOSS/otobo?style=social&color=white)](https://github.com/RotherOSS/otobo/stargazers)  
+* 🌟 **[OTOBO](https://github.com/RotherOSS/otobo)** [![GitHub_Stars](https://img.shields.io/github/stars/RotherOSS/otobo?style=social&color=white)](https://github.com/RotherOSS/otobo/stargazers)  
   *License: GPL-3.0* • *Stack: Perl, Vue.js, MariaDB/MySQL*  
   Modernized fork of OTRS Community Edition with an updated responsive web interface, elastic search engine, ITIL-compliant service catalog, CMDB, and transparent migration tools from legacy OTRS instances.
 
